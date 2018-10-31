@@ -2,7 +2,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![License](https://img.shields.io/badge/License-CC--BY-blue.svg)](https://en.wikipedia.org/wiki/Creative_Commons_license) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.matthiaszarzecki.com) [![Twitter Follow](https://img.shields.io/twitter/follow/icarustyler.svg?style=social&label=Follow)](https://twitter.com/IcarusTyler)
 
-Bagdes displaying "Made With Unity" which you can include in your README.md on GitHub or BitBucket. Copy the markdown-code for one into your readme.md to make them appear in the repository.
+Bagdes displaying "Made With Unity" which you can include in your `README.md` on GitHub or BitBucket. Copy the markdown-code for one into your readme.md to make them appear in the repository.
 
 # Examples
 
