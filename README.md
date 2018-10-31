@@ -1,8 +1,8 @@
 # Made With Unity Badges (WIP)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.matthiaszarzecki.com)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![License](https://img.shields.io/badge/License-CC-green.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity)(https://en.wikipedia.org/wiki/Creative_Commons_license) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.matthiaszarzecki.com)
 
-GitHub-ReadMe-Bagdes showing "Made With Unity" based on shields.io badges
+GitHub-ReadMe-Bagdes showing "Made With Unity" based on shields.io badges. Copy the code for one into your readme.md to make them appear when looking at the repository.
 
 # Examples
 
@@ -52,3 +52,7 @@ GitHub-ReadMe-Bagdes showing "Made With Unity" based on shields.io badges
 # TODO
 - Figure out if a specific Unity-Color exists (ask your contacts at Unity, I remember seeing a cyan-tone 2-3 years ago)
 - Add License
+
+# Sources:
+- shields.io
+- unity3d.com
