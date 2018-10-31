@@ -1,6 +1,6 @@
 # Made With Unity Badges
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![License](https://img.shields.io/badge/License-CC-blue.svg)](https://en.wikipedia.org/wiki/Creative_Commons_license) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.matthiaszarzecki.com)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![License](https://img.shields.io/badge/License-CC-BY-blue.svg)](https://en.wikipedia.org/wiki/Creative_Commons_license) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.matthiaszarzecki.com)
 
 GitHub-ReadMe-Bagdes displaying "Made With Unity", based on shields.io badges, in markdown. Copy the code for one into your readme.md to make them appear in the repository.
 
