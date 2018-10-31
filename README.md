@@ -48,4 +48,4 @@ Bagdes displaying *Made With Unity* which you can include in your `README.md` on
 
 # Sources:
 - [shields.io](https://shields.io)
-- [shields.io](https://unity3d.com)
+- [Unity 3D](https://unity3d.com)
